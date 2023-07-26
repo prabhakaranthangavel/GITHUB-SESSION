@@ -1,0 +1,3 @@
+// git init (Git initialized)
+// git add . (Add the 2 files an One folder)
+// git commit -m "first commit" (i.e Save the github)
